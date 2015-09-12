@@ -1,2 +1,2 @@
 # aws-wordpress
-Wordpress codebase AWS
+Wordpress codebase AWS / S3
